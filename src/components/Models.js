@@ -4,7 +4,7 @@ import React from 'react';
 import model from '../utils/model';
 import { browserHistory } from 'react-router'
 
-export default class Makes extends React.Component {
+export default class Models extends React.Component {
   constructor(props) {
         super(props);
     }
